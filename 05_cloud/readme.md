@@ -1,4 +1,4 @@
-#05 - Sending Data through WiFi
+# 05 - Sending Data through WiFi
 
 Our sensors script is running at startup, great! But we still need to SSH into the terminal to see the data. Instead lets send the data through WiFi to Hologram's Data Router (CSR).
 

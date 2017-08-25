@@ -4,17 +4,16 @@ Learn the basics of the Raspberry Pi 3 and Cellular IoT. By the end you'll have 
 
 ### Equipment/Tools Needed:
 
-- [Raspberry Pi 3 or Zero](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
-- [ADS1015 Analog-Digital Converter](https://www.adafruit.com/product/1083)
-- [Full-sized Breadboard](https://www.adafruit.com/product/239)
-- [DHT11 3-pin or 4-pin](https://www.adafruit.com/product/386)
+- [Raspberry Pi 3 or Zero W](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+- [MCP3008 Analog-Digital Converter](https://www.adafruit.com/product/856)
+- [Breadboard](https://www.adafruit.com/product/239)
+- [DHT11 4-pin](https://www.adafruit.com/product/386)
 - [LED (any color)](https://www.adafruit.com/product/298)
 - [Tactile Button](https://www.adafruit.com/product/367)
 - [Photoresistor](https://www.adafruit.com/product/161)
 - [220 ohm & 10k ohm Resistors](https://www.adafruit.com/product/2892)
 - [M-F Jumper Wires](https://www.adafruit.com/product/1953)
 - [M-M Jumper Wires](https://www.adafruit.com/product/1956)
-- [Solder](https://www.adafruit.com/product/145) and [Solder Iron](https://www.adafruit.com/product/180) (ADS module does not come breadboard ready)
 - [USB Cellular Modem](https://hologram.io/store/huawei-ms2131i-usb-cell-modem)
 - [Hologram Developer SIM Card](https://hologram.io/devplan/)
 - TODO: Add software requirements (stndlib, ide)
@@ -37,7 +36,7 @@ You may have a configured Pi available on your network, if you do then skip to S
 
 **06** - [Sending Data through Cellular](/06_cellular/readme.md)
 
-**07** - [Control from a Web App]()
+**07** - Control from a Web App - Coming soon
 
 **BONUS** - Neat things w/cellular
 - [Lat/Lon location through cell tower triangulation](https://hologram.io/docs/reference/cloud/python-sdk/#modem-location)

@@ -1,4 +1,4 @@
-#06 - Sending Data through Cellular
+# 06 - Sending Data through Cellular
 
 We are rocking! Now lets get cellular rolling. It's very similar steps from the last lesson.
 
